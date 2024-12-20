@@ -5,7 +5,7 @@ Dataset:
 Human Activity Recognition Using Smartphones
 
 Files: 
-CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+CodeBook.md a code book that describes the variables, the data, and any transformations to clean up the data
 
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 1) Merges the training and the test sets to create one data set.
@@ -14,4 +14,4 @@ run_analysis.R performs the data preparation and then followed by the 5 steps re
 4) Appropriately labels the data set with descriptive variable names.
 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   
-FinalData.txt is the exported final data after going through all the sequences described above.
+final_data.txt is the exported final data after going through all the sequences described above.
